@@ -13,14 +13,22 @@ div{
   justify-content: center;
   align-items: center;
 }
-.score{
+.tally{
   display:flex;
   flex-direction: row;
 }
-.num{
+.val{
 font-size:15px;
 }
 .footer{
+  display: flex;
+  align-content: flex-end;
+  position: relative;
   margin-left : 80px;
   font-size : 18px;
 }
+
+
+
+
+
